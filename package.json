@@ -1,0 +1,19 @@
+{
+  "name": "node_game_tutorial",
+  "version": "1.0.0",
+  "description": "top down game built from tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LouisUpson/game-project"
+  },
+  "author": "Louis Upson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisUpson/game-project/issues"
+  },
+  "homepage": "https://github.com/LouisUpson/game-project"
+}
